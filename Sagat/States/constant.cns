@@ -1,0 +1,123 @@
+;-------------------------
+;-| SAGAT by JtheSaltyy |-
+;-------------------------
+;     - CONSTANTS -
+;-------------------------
+
+;================================
+
+[Data]
+life = 1090
+power = 3000
+attack = 100
+defence = 100
+fall.defence_up = 50
+liedown.time = 40
+airjuggle = 15
+sparkno = -1
+guard.sparkno = s7001
+KO.echo = 0
+volume = 100
+IntPersistIndex = 0
+FloatPersistIndex = 0
+
+;================================
+
+[Size]
+xscale = 1
+yscale = 1
+ground.back = 20
+ground.front = 20
+air.back = 18 
+air.front = 18 
+height = 60 
+attack.dist = 320 
+proj.attack.dist = 320
+proj.doscale = 0
+head.pos = 6, -103
+mid.pos = -6, -52
+shadowoffset = 0
+draw.offset = 0, 0 
+
+;================================
+
+[Velocity]
+walk.fwd = 2.83
+walk.back = -2.34 
+run.fwd = 6, 0
+run.back = -6, -3.55
+jump.neu = 0, -8
+jump.back = -2.5
+jump.fwd = 2.5
+runjump.back = -2.5, -8
+runjump.fwd = 2.5, -8 
+
+;================================
+
+[Movement]
+airjump.num = 0
+airjump.height = 0
+yaccel = 0.425
+stand.friction = 0.85
+crouch.friction = 0.85
+
+;================================
+
+[Quotes]
+
+
+;=[ SAGAT QUOTES ]=
+
+victory1 = "You are not a warrior, you are a beginner." ;SF2
+victory2 = "There is no disgrace in defeat provided you learn from your mistakes."
+victory3 = "Wins do not equal strength. Those who are humble after defeat are those most admired."
+victory4 = "Such feeble attacks. Consider rethinking your training regime."
+victory5 = "You've grown careless and rash. You've handicapped yourself heavily."
+victory6 = "Only those with the courage to face me are granted a rematch."
+victory7 = "The only thing that is stopping you from becoming stronger is yourself."
+victory8 = "Nothing satisfies me more than humbling someone who thinks too much of themselves."
+victory9 =  "I lost my eye in a ferocious battle.. I am NOT a pirate. I am the emperor of Muai Thai."
+victory10 = "I am just as dangerous as I look. You've provoked me and you recieved what you deserved."
+victory11 = "The worst you can do in loss is not to be humble after a defeat."
+victory12 = "I am not satisfied until I have regained the title of World's Strongest Warrior!" ;SF2
+victory13 = "Try to kick me. You'll only do so much as to break your leg in two." ;USF2
+victory14 = "Your punches are strong, but your kicks are lacking. Do not be so top heavy."
+victory15 = "Hey kid. Would you like... Some cornflakes?" ;SF Animated Series
+victory16 = "Sloppy technique only leaves you open to get hospitalized."
+victory17 = "Remember this fist that has struck you down... The fist of an emperor."
+victory18 = "You've yet to face a warrior such as I. Find your own path, and follow your intentions." ;SF4
+victory19 = "There's no harm in obeying your instincts. They help out in the most dire of situations."
+victory20 = "You've got a lot to learn before you can beat me. Try again, kiddo!" ;SF1
+
+
+;=[ SPECIAL QUOTEs ]=
+
+;VS. Ryu
+victory21 = "Now you are scarred. My vengance has been assured."
+
+;VS. Dictator
+victory22 = "Your motives disgust me. I will no longer work with such moral corruption."
+
+;VS. Claw
+victory23 = "Not even the sharpest of claws can stop a tiger."
+
+;VS. Boxer
+victory24 = "You let your arrogance get the better of you. Stop trying to think so much of yourself."
+
+;VS. Sagat
+victory25 = "What is going on..? Have I gone mad? Have I truly become a shadow of my former self?"
+
+;VS. Adon
+victory26 = "What makes you think you could overthrow the emperor of Muai Thai? You've grown too ignorant."
+
+;VS. Joe Higashi
+victory27 = "You're still a beginner in the Muai Thai fighting style. Become stronger and we can fight again."
+
+;VS. King
+victory28 = "Hm. You show promise, but you've yet to create a more solid and unique technique."
+
+;VS. Sakura
+victory29 = "Your moves... They are just like Ryu's.. Tell me, do you know where Ryu might be?"
+
+;VS. Dan
+victory30 = "Your father was a great fighter, I was just a careless fool. Revenge is not the path you want to go."

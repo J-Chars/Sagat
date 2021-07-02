@@ -1,0 +1,62 @@
+- Sagat Readme -
+
+
+  = Q & A =
+
+
+ Q : Why Sagat? 
+
+ A : Sagat is my top favorite fighting game character ever. That just about says enough. His backstory, his
+     appearance, and of course his immense and overwhelming dominance in all of the games he has appeared
+     in appeals to me a lot, and he's also my main in CvS2, which is my favorite fighting game of all time.
+
+
+ Q : What's his playstyle like? How do you play him?
+
+ A : Sagat plays exactly like he does in CvS2. Utilize his standing and crouching hard punch a lot, as they
+     are very useful when far away. His zoning is on another level. Make use of his tiger shots, as they will
+     definitely help keep the opponent away. On top of that, his Tiger Knee is a great mix-up tool, and his
+     Tiger Uppercut is a devastating anti-air. Play footsies, and when the opponent is close, Sagat is just
+     as deadly. He has good frame data on all his moves, and while his combo potential is incredibly limited,
+     his pop-offs are just incredibly insane in terms of damage.
+
+
+ Q : What is "EX Sagat?" What does he do? Is he even that good?
+
+ A : EX Sagat is just a joke mode. EX Sagat is also known as Old Sagat. This means he has no EX specials, no supers, and
+     some of his new specials are also removed. He keeps his normals the same, and his King's Clutch throw is removed.
+     Essentially, he plays exactly like his boss appearance in SF2. His specials are all buffed, and he deals insane
+     damage. Compared to normal Sagat, they are pretty dead even since normal Sagat has more tools and options, while
+     Old Sagat has less tools, but the ones he does have are incredibly powerful.
+
+
+
+  = BEGINNER COMBOS =
+
+ LP xx LP, MP xx Tiger Shot
+
+ LP xx cr.MK xx Tiger Uppercut
+
+ a.HK, Close HP xx Tiger Uppercut
+
+ LP xx cr.LP xx LP xx Tiger Knee
+
+ cr.LP xx LP xx cr.MK xx Tiger Cannon
+
+
+  = CUSTOM COMBOS =
+
+ Install, Tiger Shot (repeated), Tiger Cannon
+
+ Install, Tiger Uppercut (repeated), Tiger Genocide
+
+
+ = CREDITS =
+
+  DivineWolf - SFF
+
+  M206 - Custom Sagat Sprites
+
+  Inktrebuchet - SF3 Style Victory Portrait
+
+  KarmaCharizard & Trololo & RagingRowen - Feedback

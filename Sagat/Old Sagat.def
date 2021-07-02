@@ -1,0 +1,50 @@
+;-------------------------
+;-| SAGAT by JtheSaltyy |-
+;-------------------------
+;   - DEFINITION FILE -
+;-------------------------
+
+;================================
+
+[Info]
+name 		= "Old Sagat"
+displayname 	= "Old Sagat"
+versiondate 	= 9 / 27 / 20
+mugenversion 	= 1.0
+author		= "JtheSaltyy"
+localcoord 	= 320,240
+pal.defaults 	= 1, 2
+
+;================================
+
+[Palette Keymap]
+x 	= 4
+y 	= 5
+z 	= 6
+a 	= 1
+b 	= 2
+c 	= 3
+x2 	= 10
+y2 	= 11
+z2 	= 12
+a2	= 7
+b2	= 8
+c2 	= 9
+
+;================================
+
+[Files]
+sprite 		= sprite-ex.sff
+anim		= animation.air
+sound 		= sound.snd
+cmd		= command.cmd
+cns 		= States/constant.cns
+stcommon 		= States/system.cns
+st 		= States/normal.cns
+st1 		= States/special.cns
+st2 		= States/super.cns
+st3 		= States/helper.cns
+st4		= States/groove.cns
+st5		= Configuration.txt
+
+;================================

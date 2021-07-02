@@ -1,0 +1,289 @@
+===================
+SAGAT by JtheSaltyy
+==================
+||
+||
+||
+=========
+MOVELIST
+=========
+||
+====
+KEY
+====
+D - Down
+U - Up
+L - Left
+R - Right
+DF - Down+Forward
+DB - Down+Back
+LP - Light Punch
+MP - Medium Punch
+HP - Hard Punch
+LK - Light Kick
+MK - Medium Kick
+HK - Hard Kick
+P - Punch
+K - Kick
+2P - 2 Punches (i.e. LP+MP, LP+HP, MP+HP)
+2K - 2 Kicks (i.e. LK+MK, LK+HK, MK+HK)
+
+===========
+DISCLAIMER
+===========
+
+-Before reading the movelist, always assume that all the moves are ground only, unless it is said otherwise.
+
+-Always assume the player is facing to the right.
+
+===========
+MOVE GUIDE
+===========
+
+========
+SYSTEM
+========
+
+Move: Dodge
+Description: Sagat quickly dodges any attacks.
+Command: LP + LK
+PROPERTIES
+-Invulnerability for 6 frames
+
+Move: Evade
+Description: Sagat rolls out of any attacks. He can be thrown however.
+Command: LP + LK + Direction (Back/Forward)
+PROPERTIES
+-Invulnerability for the entire animation
+-Not invincible to throws
+
+Move: Power Charge
+Description: Sagat slowly charges his power
+Command: (Hold) MP + MK
+PROPERTIES
+-None
+
+Move: Alpha Counter
+Description: Sagat counters an attack with his own, which is a guarunteed hit.
+Command (While in Block Stun) MP+MK
+Meter Cost: 1/2
+PROPERTIES
+-None
+
+Move: Counter Movement
+Description: Sagat counters an attack and moves out of the way.
+Command (While in Block Stun) MP+MK + Direction (Forward for Roll, Backward for Backdash)
+Meter Cost: 1/2
+PROPERTIES
+-None
+
+Move: Advancing Guard
+Description: Sagat pushes the opponent away and returns the game to neutral
+Command: (While in Block Stun) LP + LK
+PROPERTIES
+-None
+
+Move: Custom Combo
+Description: Sagat can cancel any move he wants.
+Command: HP + HK
+Meter Cost: What ever the meter is at
+PROPERTIES
+-Can cancel any move into itself or others
+-Temporary Effect
+-Cannot activate MAX Mode, use EX Moves, or supers
+-Cannot activate if MAX Mode is already active
+-Duration is affected by how much meter Sagat has before using Custom Combo
+
+=========
+THROWS
+=========
+
+Move: Tiger Toss
+Description: Sagat throws his opponent over his shoulder.
+PROPERTIES
+-Unblockable
+-Hard Knockdown, Recoverable
+-Air Okay
+
+Move: King's Clutch
+Description: Sagat grabs his opponent and knees them repeatedly. Mash punch or kick to increase the speed of the knees.
+PROPERTIES
+-Unblockable
+-Hard Knockdown, No Recovery
+
+=========
+SPECIALS
+=========
+
+Move: Tiger Shot
+Desciption: Sagat shoots a fireball.
+Command: D, DF, F, P (2P for EX)
+PROPERTIES
+-Soft Knockdown
+-Hard Knockdown, No Recovery (EX Only)
+- Juggleable (Rage Only)
+
+Move: Tiger Uppercut
+Description: Sagat jumps up with his fist in the air. The HP variant causes multiple hits.
+Command: F, D, DF, P (2P for EX)
+PROPERTIES
+-Hard Knockdown
+
+Move: Tiger Knee
+Description: Sagat jumps with his knee forward.
+Command: F, D, DF, K (2K for EX)
+PROPERTIES
+-Hard Knockdown
+-Wall Bounce (EX Only)
+
+Move: Sagat Bait
+Description: Sagat baits his opponent to attack. If they hit Sagat, he punches them away. 
+This move cannot counter projectiles, throws, or crouching attacks.
+Command: D, DB, B, K (2K for EX)
+PROPERTIES
+-Counter
+-Hard Knockdown, No Recovery
+-Wall Bounce (EX Only)
+-Normal Mode Only
+
+Move: Low Tiger Shot
+Desciption: Sagat shoots a fireball that can hit crouching opponents.
+Command: D, DF, F, K (2K for EX)
+PROPERTIES
+-Soft Knockdown
+-Hard Knockdown, No Recovery (EX Only)
+
+Move: Tiger Rush
+Desciption: Sagat steps forward and knees. This move can be cancelled into his rekkas before the knee.
+In the EX variant or in Rage Mode, no matter which button you press, it will go to Tiger Barrage.
+Command: D, DB, B, P (2P for EX)
+PROPERTIES
+-None
+
+Move: Tiger Sweep
+Desciption: Sagat sweeps the opponent. It can only be blocked by crouching.
+Command: P (during Tiger Rush)
+PROPERTIES
+-Hard Knockdown
+
+Move: Tiger Crack / Barrage
+Desciption: Sagat kicks the opponent across the face.
+Command: K (during Tiger Rush)
+PROPERTIES
+-Hard Knockdown
+-Juggleable
+
+========
+SUPERS
+========
+
+Move: Tiger Cannon
+Description: Sagat shoots a gigantic and very fast Tiger Shot.
+Command: D, DF, F, D, DF, F, P
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Low Tiger Cannon
+Description: Sagat shoots a gigantic and very fast Tiger Shot that can hit crouching opponents.
+Command: D, DB, B, D, DB, B, P
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Tiger Genocide
+Description: Sagat does a Tiger Knee, then a Tiger Uppercut
+Command: D, DF, F, D, DF, F, K
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Tiger Raid
+Description: Sagat kicks three times and then shoots his foot forward which can deal damage.
+Command: D, DB, B, D, DB, B, K
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Tiger Punish
+Description: Sagat performs his standing and crouching hard punches repeatedly.
+Command: D, DB, B, D, DB, B, 2P
+Meter Cost: 2
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Tiger Flurry
+Description: Sagat kicks three times, and while the opponent is flying through the air, he shoots
+his foot forward, with it covered in flames.
+Command: D, DB, B, D, DB, B, 2K
+Meter Cost: 2
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Tiger Destruction
+Description: Sagat performs a Tiger Knee, then a Tiger Uppercut, then a second Tiger Uppercut.
+Command: D, DF, F, D, DF, F, 2K
+Meter Cost: 2
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Tiger Storm
+Description: Sagat punches two times, then a knee. This knee sends the opponent flying into the
+air. Sagat then charges a gigantic projectile and then shoots it at the opponent, causing a 
+huge explosion.
+Command: D, DF, F, D, DF, F, 2P
+Meter Cost: 3
+PROPERTIES
+-MAX Super
+-Hard Knockdown, No Recovery
+
+==================
+
+= TIGER RAGE =
+
+Tiger Rage is Sagat's install super. Upon activating it, he has many different modifications to his moves.
+This is a complete list of those modifications:
+
+-Tiger Shot causes the opponent to go straight up, allowing for juggling
+-Tiger Uppercut becomes the EX Tiger Uppercut, and can juggle into other moves
+-Tiger Knee becomes the Double Tiger Knee, and can juggle into other moves
+-Tiger Rush causes more damage'
+-Tiger Bait causes a wall bounce
+-No EX moves
+-You can get a free level 1 super during Tiger Rage, but using it ends the Rage altogether
+-Sagat causes more damage overall
+-Sagat walks faster
+
+Move: Tiger Rage
+Description: Sagat activates Tiger Rage.
+Command: D, DF, F, D, DF, F, Start
+Meter Cost: 1
+PROPERTIES
+-Install Super
+-Activates Rage Mode
+==================
+
+= OLD SAGAT =
+
+Old Sagat is Sagat's EX mode. The name gives you all that you need to know in terms of what Old Sagat
+can do. He plays exactly like his appearance from Street Fighter II. While Sagat's movelist is shortened
+down, the existing moves that are kept are insanely good. Here's a list of what changed in Old Sagat:
+
+-Tiger Shots go much slower in LP version, and go much faster in HP version.
+-Tiger Uppercut causes more damage
+-Tiger Knee causes more damage
+-No EX Moves
+-No Supers, No Custom Combo, No Power Up
+-Tiger Rush and Tiger Bait are removed
+-Sagat's normals cause a lot more damage
+-Sagat's stun damage is heavily increased
+-Sagat's voice changes to his SFII one.
+
+In terms of who is better between normal and Old Sagat, it's uncertain. While Normal Sagat has access to all of
+his tools, Old Sagat's much more abridged move-set is much more dangerous. It's a dead even match, and I don't
+really know which one is the better of the two.
+
+==================
+
+i hope you enjoy!
+
